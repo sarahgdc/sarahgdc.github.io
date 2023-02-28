@@ -1,3 +1,3 @@
-# sarahgdc.github.io
+# personal website
 
-sarahgdc.github.io(https://sarahgdc.github.io)
+https://sarahgdc.github.io
